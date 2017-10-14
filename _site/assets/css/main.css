@@ -179,6 +179,27 @@ blockquote p {
   margin-top: 5px;
   color: #273746; }
 
+.tg {
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-left: 10px; }
+
+.tg td {
+  padding: 10px 5px;
+  border-width: 1px;
+  overflow: hidden;
+  word-break: normal; }
+
+.tg th {
+  font-weight: normal;
+  padding: 10px 5px;
+  border-width: 1px;
+  overflow: hidden;
+  word-break: normal; }
+
+.tg .tg-col {
+  vertical-align: top; }
+
 .page-title {
   padding: 0px 10px 10px; }
 

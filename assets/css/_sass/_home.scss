@@ -93,3 +93,32 @@
   margin-top: 5px;
   color: #273746;
 }
+
+.tg  {
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-left: 10px;
+}
+
+.tg td {
+  padding: 10px 5px;
+  border-width: 1px;
+  overflow: hidden;
+  // border-style: solid;
+  // border-color: #ABB2B9;
+  word-break: normal;
+}
+
+.tg th {
+  font-weight: normal;
+  padding: 10px 5px;
+  border-width: 1px;
+  // border-style: solid;
+  // border-color: #ABB2B9;
+  overflow: hidden;
+  word-break: normal;
+}
+
+.tg .tg-col{
+  vertical-align: top;
+}
