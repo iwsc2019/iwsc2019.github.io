@@ -103,7 +103,9 @@ blockquote p {
   background-size: cover; }
 
 .featured-posts h2 span {
+  width: 600px;
   display: inline-block;
+  display: block;
   color: white;
   font: bold 24px/45px Helvetica, Sans-Serif;
   letter-spacing: -1px;
@@ -111,7 +113,7 @@ blockquote p {
   /* fallback color */
   background: rgba(0, 0, 0, 0.7);
   padding: 10px;
-  margin-top: 80px; }
+  margin-top: 160px; }
 
 .featured-posts h3 span {
   display: inline-block;
