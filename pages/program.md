@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Registration
+title: Program
 ---
 
 To be confirmed.

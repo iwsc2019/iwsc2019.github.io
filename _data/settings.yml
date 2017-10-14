@@ -11,16 +11,16 @@ disqus:
 
 menu:
 - {name: 'Registration', folder: 'pages', file: 'registration.html'}
-- {name: 'Objectives', folder: 'pages', file: 'resources.html'}
-- {name: 'Program', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Call for Papers', folder: 'pages', file: 'documentation.html'}
-- {name: 'Important Dates', folder: 'pages', file: 'about.html'}
-- {name: 'Keynote', folder: 'pages', file: 'contact.html'}
-- {name: 'Team', folder: 'pages', file: 'contact.html'}
+- {name: 'Objectives', folder: 'pages', file: 'objectives.html'}
+- {name: 'Program', folder: 'pages', file: 'program.html'}
+- {name: 'Call for Papers', folder: 'pages', file: 'call_for_papers.html'}
+- {name: 'Important Dates', folder: 'pages', file: 'important_dates.html'}
+- {name: 'Keynote', folder: 'pages', file: 'keynote.html'}
+- {name: 'Team', folder: 'pages', file: 'team.html'}
 
 social:
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
+- {icon: 'twitter', link: 'https://twitter.com/IWSC2017'}
+- {icon: 'facebook', link: 'https://www.facebook.com/'}
 # - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 # - {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
 
