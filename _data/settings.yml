@@ -1,0 +1,27 @@
+title:  "IWSC 2018"
+tagline: "12th International Workshop on Software Clones"
+description:
+
+# Authors documented under _data
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'millennial-3'
+
+menu:
+- {name: 'Registration', folder: 'pages', file: 'registration.html'}
+- {name: 'Objectives', folder: 'pages', file: 'resources.html'}
+- {name: 'Program', folder: 'pages', file: 'sample-posts.html'}
+- {name: 'Call for Papers', folder: 'pages', file: 'documentation.html'}
+- {name: 'Important Dates', folder: 'pages', file: 'about.html'}
+- {name: 'Keynote', folder: 'pages', file: 'contact.html'}
+- {name: 'Team', folder: 'pages', file: 'contact.html'}
+
+social:
+- {icon: 'twitter', link: 'https://twitter.com/paululele'}
+- {icon: 'facebook', link: 'https://www.facebook.com/Le.Paul.94'}
+# - {icon: 'instagram', link: 'https://instagram.com/paululele'}
+# - {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
