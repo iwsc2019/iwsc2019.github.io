@@ -94,6 +94,24 @@ blockquote p {
     margin: auto;
     display: block;
     width: 95vw; } }
+.featured-images {
+  height: 700px;
+  margin: 5px 0px 0px;
+  padding: 10px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+.featured-images span {
+  display: inline-block;
+  color: white;
+  font: 18px/32px Helvetica, Sans-Serif;
+  letter-spacing: -1px;
+  background: black;
+  /* fallback color */
+  background: rgba(0, 0, 0, 0.7);
+  padding: 5px 5px 5px 10px; }
+
 .featured-posts {
   height: 300px;
   margin: 5px 0px 0px;
@@ -199,6 +217,13 @@ blockquote p {
 
 .tg .tg-col {
   vertical-align: top; }
+
+.page_content {
+  margin-left: 12px;
+  display: flex; }
+
+.image_margin {
+  margin: 10px; }
 
 .page-title {
   padding: 0px 10px 10px; }
