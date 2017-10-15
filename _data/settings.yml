@@ -17,6 +17,7 @@ menu:
 - {name: 'Important Dates', folder: 'pages', file: 'important_dates.html'}
 - {name: 'Keynote', folder: 'pages', file: 'keynote.html'}
 - {name: 'Team', folder: 'pages', file: 'team.html'}
+- {name: 'Previous Editions', folder: 'pages', file: 'prev_editions.html'}
 
 social:
 - {icon: 'twitter', link: 'https://twitter.com/IWSC2017'}
