@@ -197,6 +197,9 @@ blockquote p {
   margin-top: 5px;
   color: #273746; }
 
+.individual a {
+  color: #2980B9; }
+
 .tg {
   border-collapse: collapse;
   border-spacing: 0;
