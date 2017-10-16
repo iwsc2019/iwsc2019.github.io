@@ -120,11 +120,11 @@
 .tg  {
   border-collapse: collapse;
   border-spacing: 0;
-  margin-left: 10px;
+  margin-left: 5px;
 }
 
 .tg td {
-  padding: 10px 5px;
+  padding: 5px 1px;
   border-width: 1px;
   overflow: hidden;
   // border-style: solid;
@@ -134,7 +134,7 @@
 
 .tg th {
   font-weight: normal;
-  padding: 10px 5px;
+  padding: 5px 1px;
   border-width: 1px;
   // border-style: solid;
   // border-color: #ABB2B9;
@@ -157,4 +157,44 @@
 
 .editions li {
   margin: 0px 0px 10px 0px;
+}
+
+.body_layout {
+  display: flex;
+}
+
+.body_layout .left {
+  width: 75%;
+}
+
+.body_layout .right {
+  width: 25%;
+  margin: 10px 0px 10px 10px;
+  padding: 5px;
+  font-size: 14px;
+}
+
+.body_layout .right .grey_box {
+  border: solid #EAECEE 1px;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.body_layout .right .header {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  background-color: #D5D8DC;
+  padding: 5px;
+  text-align: center;
+  vertical-align: middle;
+  color: #566573;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
 }
