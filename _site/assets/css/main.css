@@ -123,7 +123,6 @@ blockquote p {
 .featured-posts h2 span {
   width: 520px;
   display: inline-block;
-  display: block;
   color: white;
   font: bold 24px/45px Helvetica, Sans-Serif;
   letter-spacing: -1px;
@@ -206,7 +205,6 @@ blockquote p {
   margin-left: 5px; }
 
 .tg td {
-  padding: 5px 1px;
   border-width: 1px;
   overflow: hidden;
   word-break: normal; }
@@ -219,13 +217,18 @@ blockquote p {
   word-break: normal; }
 
 .tg .tg-col {
-  vertical-align: top; }
+  vertical-align: top;
+  padding: 5px 5px 5px 0px; }
+
+.tg .tg-date {
+  vertical-align: top;
+  padding: 5px 5px 5px 10px; }
 
 .page_content {
   margin-left: 12px;
   display: flex; }
 
-.image_margin {
+.image_box {
   margin: 10px; }
 
 .editions li {
