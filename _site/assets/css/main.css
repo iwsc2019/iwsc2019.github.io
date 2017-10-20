@@ -121,21 +121,20 @@ blockquote p {
   background-size: cover; }
 
 .featured-posts h2 span {
-  width: 520px;
   display: inline-block;
   color: white;
-  font: bold 24px/45px Helvetica, Sans-Serif;
+  font: bold 24px Helvetica, Sans-Serif;
   letter-spacing: -1px;
   background: black;
   /* fallback color */
   background: rgba(0, 0, 0, 0.7);
   padding: 10px;
-  margin-top: 90px; }
+  margin-top: 100px; }
 
 .featured-posts h3 span {
   display: inline-block;
   color: white;
-  font: bold 18px/32px Helvetica, Sans-Serif;
+  font: bold 18px Helvetica, Sans-Serif;
   letter-spacing: -1px;
   background: black;
   /* fallback color */
@@ -200,6 +199,7 @@ blockquote p {
   color: #2980B9; }
 
 .tg {
+  width: 100%;
   border-collapse: collapse;
   border-spacing: 0;
   margin-left: 5px; }
@@ -212,39 +212,59 @@ blockquote p {
 .tg th {
   font-weight: normal;
   padding: 5px 1px;
-  border-width: 1px;
+  border-top: 1px solid #EBEDEF;
+  border-bottom: 1px solid #EBEDEF;
   overflow: hidden;
   word-break: normal; }
 
 .tg .tg-col {
   vertical-align: top;
-  padding: 5px 5px 5px 0px; }
+  text-align: left;
+  padding: 5px 5px 5px 0px;
+  border-bottom: 1px solid #EBEDEF; }
 
 .tg .tg-date {
+  text-align: right;
   vertical-align: top;
-  padding: 5px 5px 5px 10px; }
+  padding: 5px 5px 5px 10px;
+  border-bottom: 1px solid #EBEDEF; }
 
 .page_content {
-  margin-left: 12px;
-  display: flex; }
+  margin-left: 12px; }
 
-.image_box {
-  margin: 10px; }
+.page_content .text {
+  width: 64%;
+  min-width: 300px;
+  display: inline-block;
+  vertical-align: top; }
+
+.page_content .image_box {
+  min-width: 350px;
+  display: inline-block;
+  margin: 10px;
+  vertical-align: top; }
+
+.page_content .image_box img {
+  width: 350px;
+  /* you can use % */
+  height: auto; }
 
 .editions li {
   margin: 0px 0px 10px 0px; }
 
-.body_layout {
-  display: flex; }
-
 .body_layout .left {
-  width: 75%; }
+  display: inline-block;
+  width: 72%;
+  vertical-align: top; }
 
 .body_layout .right {
-  width: 25%;
+  display: inline-block;
+  max-width: 25%;
+  min-width: 260px;
   margin: 10px 0px 10px 10px;
   padding: 5px;
-  font-size: 14px; }
+  font-size: 14px;
+  vertical-align: top; }
 
 .body_layout .right .grey_box {
   border: solid #EAECEE 1px;
