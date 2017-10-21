@@ -20,7 +20,7 @@ menu:
 - {name: 'Previous Editions', folder: 'pages', file: 'prev_editions.html'}
 
 social:
-- {icon: 'twitter', link: 'https://twitter.com/IWSC2017'}
+- {icon: 'twitter', link: 'https://twitter.com/IWSC2018'}
 - {icon: 'facebook', link: 'https://www.facebook.com/International-Workshop-on-Software-Clones-1997867150489640/'}
 # - {icon: 'instagram', link: 'https://instagram.com/paululele'}
 # - {icon: 'envelope', link: 'mailto:l.nguyen.paul@gmail.com'}
