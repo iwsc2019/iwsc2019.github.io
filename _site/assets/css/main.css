@@ -223,6 +223,13 @@ blockquote p {
   padding: 5px 5px 5px 0px;
   border-bottom: 1px solid #EBEDEF; }
 
+.tg .th-col {
+  vertical-align: top;
+  text-align: left;
+  padding: 5px 5px 5px 0px;
+  border-bottom: 1px solid #EBEDEF;
+  font-weight: bold; }
+
 .tg .tg-date {
   text-align: right;
   vertical-align: top;

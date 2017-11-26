@@ -70,4 +70,8 @@
 <url>
 <loc>http://localhost:4000/page2/</loc>
 </url>
+<url>
+<loc>http://localhost:4000/poster/iwsc_poster.pdf</loc>
+<lastmod>2017-11-24T02:45:27+00:00</lastmod>
+</url>
 </urlset>
