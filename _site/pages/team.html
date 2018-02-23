@@ -39,6 +39,15 @@
   <!-- Use Atom -->
   <link type="application/atom+xml" rel="alternate" href="http://localhost:4000/feed.xml" />
 
+  <div id="fb-root"></div>
+  <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11&appId=523091474738433';
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));</script>
+
 </head>
 
 
@@ -112,13 +121,14 @@
 </div>
 
 <article>
-  <div class="team_member">
+  <!--
+<div class="team_member">
   <div class="individual">
       <h2>General Chair</h2>
       <img src="/assets/img/blank.png" />
       <h4>To be confirmed</h4>
   </div>
-</div>
+</div>-->
 
 <div class="team_member">
   <h2>Program Co-Chairs</h2>

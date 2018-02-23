@@ -287,6 +287,18 @@ blockquote p {
   vertical-align: middle;
   color: #566573; }
 
+.emphasized_box {
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px black;
+  border-style: solid;
+  color: red;
+  font-size: 18px;
+  text-align: center; }
+
+.emphasized_box a {
+  color: green; }
+
 hr {
   display: block;
   height: 1px;
