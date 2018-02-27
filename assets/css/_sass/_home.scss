@@ -163,6 +163,52 @@
   border-bottom: 1px solid #EBEDEF;
 }
 
+.schedule .header-b {
+  background-color: #2C3E50;
+  padding: 10px 10px 10px 10px;
+  color: white;
+  font-size: 18px;
+}
+
+.schedule .content {
+  padding: 10px 10px 10px 10px;
+  border-bottom: 1px solid #EBEDEF;
+}
+
+.schedule .talk {
+  padding: 10px 10px 10px 10px;
+  border-bottom: 1px solid #EBEDEF;
+}
+
+.schedule .lightbg {
+  background-color: #EAFAF1;
+}
+
+.schedule .darkbg {
+  background-color: #D5F5E3;
+}
+
+.schedule .talk-noline {
+  padding: 10px 10px 10px 10px;
+}
+
+.schedule .talk-b-noline {
+  padding: 10px 10px 10px 10px;
+  font-weight: bold;
+}
+
+.schedule .content-i {
+  padding: 10px 10px 10px 10px;
+  font-style: italic;
+  border-bottom: 1px solid #EBEDEF;
+}
+
+.schedule .content-b {
+  padding: 10px 10px 10px 10px;
+  font-weight: bold;
+  border-bottom: 1px solid #EBEDEF;
+}
+
 .page_content {
   margin-left: 12px;
   // display: flex;
