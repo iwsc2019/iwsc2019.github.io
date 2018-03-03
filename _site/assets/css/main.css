@@ -351,6 +351,14 @@ hr {
 .paper_title {
   color: #226B71; }
 
+.abstract_box {
+  border: solid #EAECEE 1px;
+  padding: 10px;
+  margin: 10px; }
+
+.abstract_box .abstract_header {
+  padding: 10px; }
+
 .page-title {
   padding: 0px 10px 10px; }
 
